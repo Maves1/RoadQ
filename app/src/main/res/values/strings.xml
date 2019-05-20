@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoadQ</string>
+    <string name="title_activity_maps">RoadQ</string>
+    <string name="start">Start!</string>
+</resources>

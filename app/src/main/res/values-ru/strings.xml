@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoadQ</string>
+    <string name="start">Поехали!</string>
+    <string name="title_activity_maps">RoadQ</string>
+</resources>
